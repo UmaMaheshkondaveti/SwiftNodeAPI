@@ -1,0 +1,38 @@
+{
+  "id": 11,
+  "name": "Test User",
+  "username": "testuser",
+  "email": "test@example.com",
+  "address": {
+    "street": "Test Street",
+    "suite": "Apt. 101",
+    "city": "Testville",
+    "zipcode": "12345-6789",
+    "geo": {
+      "lat": "40.7128",
+      "lng": "-74.0060"
+    }
+  },
+  "phone": "1-234-567-8901",
+  "website": "testuser.com",
+  "company": {
+    "name": "Test Company Inc.",
+    "catchPhrase": "We test things so you don't have to",
+    "bs": "innovative testing solutions"
+  },
+  "posts": [
+    {
+      "id": 101,
+      "title": "Test Post Title",
+      "body": "This is a test post body with some content.",
+      "comments": [
+        {
+          "id": 1001,
+          "name": "Test Comment",
+          "email": "commenter@example.com",
+          "body": "This is a test comment on the test post."
+        }
+      ]
+    }
+  ]
+}

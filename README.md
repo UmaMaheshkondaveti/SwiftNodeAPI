@@ -10,19 +10,8 @@ REST API endpoints for user management
 MongoDB integration for data persistence
 Data loading from JSONPlaceholder API
 Project Structure
-node_assignment/
-├── package.json         # Project dependencies and scripts
-├── tsconfig.json        # TypeScript configuration
-├── sample-user.json     # Sample user data for testing
-├── src/
-│   ├── index.ts         # Entry point for the application
-│   ├── config/          # Configuration files
-│   ├── controllers/     # Request handlers
-│   ├── models/          # TypeScript interfaces
-│   ├── routes/          # Route definitions
-│   ├── services/        # Business logic and data access
-│   └── utils/           # Utility functions
-└── README.md            # Project documentation
+![image](https://github.com/user-attachments/assets/ad6d2a04-8e6a-469c-aa08-da716a429809)
+
 Prerequisites
 Node.js (latest LTS version)
 MongoDB installed and running locally on default port 27017
